@@ -1,0 +1,4 @@
+
+Host *
+	AddKeysToAgent yes
+	IdentityFile   ~/.ssh/ae0nx_gh
